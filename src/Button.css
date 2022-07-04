@@ -1,0 +1,26 @@
+.principal{
+    margin: 37px;
+    
+}
+.titulo{
+    font-weight: 50;
+    border-style: solid 1px #c2c2c2;
+    margin: 10px;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 25px;
+    background-color: #FFF;
+    color:#000;
+    text-align: center;
+}
+p{
+    font-weight: 600;
+}
+.titulo:hover{
+    background-color: #0085A1;
+    color: #FFF;
+    border-style: 0 0px #fff;
+
+}
